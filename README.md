@@ -1,1 +1,1 @@
-# striver_levelup
+# algoscience_learnings
